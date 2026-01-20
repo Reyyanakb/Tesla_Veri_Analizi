@@ -130,8 +130,9 @@ Kural tabanlı anahtar kelimeler kullanılarak şikayetler üç gruba ayrılmı�
 
 # İlgili grafikler:
 
-<p align="center">
+<p align="left-align">
   <img src="https://github.com/user-attachments/assets/a4008a75-e887-4c54-9074-8413eb39557f" width="400" />
+ <br>
   <img src="https://github.com/user-attachments/assets/c92656d3-97f0-4c84-a5a4-16f1515b6ff1" width="400" />
 </p>
 
@@ -175,21 +176,8 @@ Kural tabanlı anahtar kelimeler kullanılarak şikayetler üç gruba ayrılmı�
 
 Bu repository’de yer alan **PDF dosyası**,
 
-* Tüm grafikler
-* Tablo analizleri
-* Türkiye & Global karşılaştırmalar
-* Akademik yorumlar
-
+* Tüm grafikleri, tablo analizlerini ve Türkiye & Global karşılaştırmaları
 içermektedir.
 
----
-
-##  Hazırlayan
-
-**Reyyan Akbulut**
-Yönetim Bilişim Sistemleri (YBS)
-Veri Analitiği • Müşteri Analitiği • Kriz Yönetimi
-
----
 
 
